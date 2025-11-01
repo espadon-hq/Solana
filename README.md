@@ -1,21 +1,22 @@
-# 🚀 Solana
+# 💞 Solana — Kama Sutra Pose Finder
 
 ## 🌟 Overview
 
-**Solana** is a full-stack web application built to supercharge decentralized solutions on the Solana blockchain. The project makes interacting with Solana’s lightning-fast, scalable, low-latency technology simple for developers and users.  
-Whether you’re building dApps, dashboards, or automation tools, this project is your flexible platform for innovation! ✨
+**Solana** is a dynamic web application that helps you discover Kama Sutra poses customized to your personal health and comfort needs!  
+Just select your (and your partner’s) medical conditions or physical limitations — and instantly get a list of accessible, recommended positions.  
+It’s your smart, safe, and fun guide to intimacy! 🔥
 
 ## 💡 Key Features
 
-- ⚡ Rapid Solana blockchain integration — high throughput, low cost!
-- 🐍 RESTful API backend with Python
-- 🖥️ Interactive frontend UI for analytics & dApps
-- 🛠️ DevOps support for continuous deployment
-- 🔒 Secure, containerized production setup
+- 🧭 Intelligent filter — choose poses based on your conditions (e.g., back pain, pregnancy, joint issues, etc.)
+- 💖 Big catalog — classic Kama Sutra poses plus exclusive new ones!
+- 🖼️ Illustrated guides — easy-to-understand images and step descriptions
+- ⚕️ Health tips & warnings for each position
+- 📱 Mobile-friendly design — comfort on any device!
 
 ## 🧰 Technologies Used
 
-- **Backend:** Python (Flask/FastAPI/your framework)
+- **Backend:** Python (FastAPI/Flask)
 - **Frontend:** HTML, CSS, JavaScript/React
 - **Database:** PostgreSQL 🐘
 - **DevOps:** Jenkins 🤖
@@ -28,24 +29,23 @@ Whether you’re building dApps, dashboards, or automation tools, this project i
 git clone https://github.com/espadon-hq/Solana.git
 
 text
-2. Install dependencies and review setup files (`requirements.txt`, `docker-compose.yml`)
-3. Run the Docker environment:
+2. Install dependencies, review setup files (`requirements.txt`, `docker-compose.yml`)
+3. Run with Docker:
 docker-compose up
 
 text
-4. Configure environment variables for PostgreSQL and Solana RPC endpoints as needed.
+4. Set up environment variables for the database and other configs.
 
 ## 🛣️ Roadmap
 
-- 📊 Expand dashboard features
-- 📝 Smart contract integration
-- 🔑 Auth modules (wallets, OAuth)
-- 🧠 Automated analytics
-- 💬 Community feedback is always welcome!
+- 🔍 Expand medical filter options for more conditions
+- 📺 Add video guides
+- 👍 Personalized recommendations based on user feedback
+- 🛡️ Anonymity and privacy tools
+- 💬 User reviews & rating system
 
 ---
 
 **License:** MIT 📝
 
-Questions? Want more docs or examples?  
-Open an issue or contact the maintainer — let’s build the future together! 🚀😃
+Feel free to open an issue or contact the maintainer — let’s help more people discover safe, comfortable pleasure! 🌈😉
