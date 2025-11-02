@@ -1,51 +1,67 @@
-# 💞 Solana — Kama Sutra Pose Finder
+# Solana 🌞 - Your Intimacy Companion
 
-## 🌟 Overview
-
-**Solana** is a dynamic web application that helps you discover Kama Sutra poses customized to your personal health and comfort needs!  
-Just select your (and your partner’s) medical conditions or physical limitations — and instantly get a list of accessible, recommended positions.  
-It’s your smart, safe, and fun guide to intimacy! 🔥
-
-## 💡 Key Features
-
-- 🧭 Intelligent filter — choose poses based on your conditions (e.g., back pain, pregnancy, joint issues, etc.)
-- 💖 Big catalog — classic Kama Sutra poses plus exclusive new ones!
-- 🖼️ Illustrated guides — easy-to-understand images and step descriptions
-- ⚕️ Health tips & warnings for each position
-- 📱 Mobile-friendly design — comfort on any device!
-
-## 🧰 Technologies Used
-
-- **Backend:** Python (FastAPI/Flask)
-- **Frontend:** HTML, CSS, JavaScript/React
-- **Database:** PostgreSQL 🐘
-- **DevOps:** Jenkins 🤖
-- **Web Server:** Nginx 🕸️
-- **Testing & API:** Postman 📮
-
-## 🚦 Getting Started
-
-1. Clone the repository:
-git clone https://github.com/espadon-hq/Solana.git
-
-text
-2. Install dependencies, review setup files (`requirements.txt`, `docker-compose.yml`)
-3. Run with Docker:
-docker-compose up
-
-text
-4. Set up environment variables for the database and other configs.
-
-## 🛣️ Roadmap
-
-- 🔍 Expand medical filter options for more conditions
-- 📺 Add video guides
-- 👍 Personalized recommendations based on user feedback
-- 🛡️ Anonymity and privacy tools
-- 💬 User reviews & rating system
+## Brand Identity 🔆
+The word **Solana** comes from the Latin word [translate:sol], meaning **sun** and **comfort**.  
+The Latin *sol* literally means the sun, sunlight, and in chemistry and alchemy it symbolizes gold. In Roman mythology, Sol is the personification of the Sun god.  
+In modern Romance languages like Italian, Spanish, French, and Portuguese, *sol* and its derivatives stand for the sun. Also, English words like *solar*, *solstice*, and others related to the sun and light originate from *sol*.  
 
 ---
 
-**License:** MIT 📝
+## 🌟 Overview ✨  
+**Solana** is a dynamic web app designed to help you find Kamasutra positions perfectly tailored to your personal health and comfort needs! ❤️  
+Simply select your (and your partner's) medical conditions or physical limitations, and instantly get a personalized list of safe, recommended positions. This is your smart, safe, and fun guide to intimacy!
 
-Feel free to open an issue or contact the maintainer — let’s help more people discover safe, comfortable pleasure! 🌈😉
+---
+
+## MVP Features 🚀
+
+1. **Kamasutra Positions Database** 📚  
+   💖 A huge catalog featuring both classic and exclusive new positions!  
+   - 🏷️ Name  
+   - 🖼️ Illustration  
+   - 📝 Description  
+   - 🎯 Difficulty level  
+   - 💪 Body zone load intensity  
+   - 🔥 Overall intensity  
+
+2. **Health-Based Position Filter** 🩺  
+   🎯 Intelligent filtering lets you choose positions based on your health conditions (e.g., back pain, pregnancy, joint issues).  
+   - 👤 Choose your problematic areas (e.g., knee pain)  
+   - 🤝 Choose your partner's problem zones (e.g., neck pain)  
+   - 🛡️ The system filters out positions that strain those zones, ensuring safer choices.
+
+3. **Results Presentation** 🎉  
+   - 🖼️ Display available positions with photos/illustrations  
+   - 📋 Step-by-step brief description of each position  
+   - 🔄 Sort or further filter by intensity or difficulty level  
+   - ⚕️ Health tips and warnings for each position
+
+4. **Additional Features** 🌈  
+   - ⭐ Save your favorite positions  
+   - 🎲 Random "Position of the Day"  
+   - 🏆 Ratings and reviews/comments  
+
+---
+
+## Roadmap 🛣️
+
+5. 🛡️ Safety advice section  
+6. 📱 Mobile-friendly design — comfort on any device!  
+7. ⚕️ Expand medical filters for a wider range of conditions  
+8. 🎥 Video instructions  
+9. 💡 Personalized recommendations based on user feedback  
+10. 🔐 Anonymity and privacy tools  
+
+---
+
+## Technologies Used 🛠️
+- 🐍 Python + Django  
+- 🌐 HTML + CSS + JavaScript  
+- 🐘 PostgreSQL  
+- 🚀 Nginx  
+- 🤖 Jenkins  
+- 🧪 Postman  
+
+---
+
+Enjoy your healthy, safe, and fun intimate journey with **Solana**! 🌞✨
